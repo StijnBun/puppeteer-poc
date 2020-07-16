@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-poc",
+  "version": "1.0.0",
+  "description": "poc for webscraping with puppeteer",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StijnBun/puppeteer-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StijnBun/puppeteer-poc/issues"
+  },
+  "homepage": "https://github.com/StijnBun/puppeteer-poc#readme",
+  "dependencies": {
+    "puppeteer": "^5.1.0"
+  }
+}
